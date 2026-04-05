@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/SnakeGame/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\main.cpp.obj -c D:\\SnakeGame\\main.cpp",
+  "file": "D:/SnakeGame/main.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/SnakeGame/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\Game.cpp.obj -c D:\\SnakeGame\\Game.cpp",
+  "file": "D:/SnakeGame/Game.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/Game.cpp.obj"
+},
+{
+  "directory": "D:/SnakeGame/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\Snake.cpp.obj -c D:\\SnakeGame\\Snake.cpp",
+  "file": "D:/SnakeGame/Snake.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/Snake.cpp.obj"
+},
+{
+  "directory": "D:/SnakeGame/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\Food.cpp.obj -c D:\\SnakeGame\\Food.cpp",
+  "file": "D:/SnakeGame/Food.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/Food.cpp.obj"
+},
+{
+  "directory": "D:/SnakeGame/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\Renderer.cpp.obj -c D:\\SnakeGame\\Renderer.cpp",
+  "file": "D:/SnakeGame/Renderer.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/Renderer.cpp.obj"
+},
+{
+  "directory": "D:/SnakeGame/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\Input.cpp.obj -c D:\\SnakeGame\\Input.cpp",
+  "file": "D:/SnakeGame/Input.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/Input.cpp.obj"
+},
+{
+  "directory": "D:/SnakeGame/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\SaveSystem.cpp.obj -c D:\\SnakeGame\\SaveSystem.cpp",
+  "file": "D:/SnakeGame/SaveSystem.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/SaveSystem.cpp.obj"
+}
+]

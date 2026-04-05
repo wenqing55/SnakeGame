@@ -1,0 +1,7 @@
+score=0
+dir=1
+mapW=30
+mapH=20
+snake=21,10;20,10;19,10
+food=11,2
+isPaused=1
